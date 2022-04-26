@@ -6,3 +6,4 @@ Therefore, I decide to program a web scraping code to get the information from T
 
 Just like a small exam to test my scaping data skill.
 
+The project result is not perfect now, so I will keep uploading and revising.
