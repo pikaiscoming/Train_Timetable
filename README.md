@@ -1,2 +1,8 @@
-# small_project
-After learning coding, I want to solve some problem I face in daily life. Therefore, this repository will maybe update seldom .
+# Train_Timetable
+
+Because I alwalys need to search train timetable every week and the website is not user-friendly.
+
+Therefore, I decide to program a web scraping code to get the information from Taiwan Railway website. 
+
+Just like a small exam to test my scaping data skill.
+
